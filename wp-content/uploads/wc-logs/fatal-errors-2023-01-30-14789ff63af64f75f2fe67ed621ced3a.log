@@ -1,0 +1,10 @@
+2023-01-30T00:27:26+00:00 CRITICAL Out of memory (allocated 85983232) (tried to allocate 20480 bytes) in C:\xampp\htdocs\favycouture\wp-includes\rest-api\endpoints\class-wp-rest-controller.php on line 398
+
+2023-01-30T09:16:02+00:00 CRITICAL LiteSpeed\Control::finalize(): Cannot use output buffering in output buffering display handlers in C:\xampp\htdocs\favycouture\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductQuery.php on line 76
+
+2023-01-30T16:55:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\favycouture\wp-content\plugins\woocommerce\packages\action-scheduler\classes\schedules\ActionScheduler_IntervalSchedule.php on line 6
+
+2023-01-30T16:57:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\favycouture\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-01-30T16:57:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\favycouture\wp-content\plugins\contact-form-7\modules\checkbox.php on line 8
+

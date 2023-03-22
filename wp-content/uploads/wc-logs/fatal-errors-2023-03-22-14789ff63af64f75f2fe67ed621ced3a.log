@@ -1,0 +1,8 @@
+2023-03-22T15:55:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\favycouture\wp-includes\Requests\Transport\cURL.php on line 462
+
+2023-03-22T15:55:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\favycouture\wp-includes\Requests\Transport\cURL.php on line 462
+
+2023-03-22T16:03:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\favycouture\wp-includes\Requests\Transport\cURL.php on line 462
+
+2023-03-22T16:11:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\favycouture\wp-includes\Requests\Transport\cURL.php on line 462
+

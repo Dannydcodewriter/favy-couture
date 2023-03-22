@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>children &#8211; favycouture</title>
+	<atom:link href="/product-category/children/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Best Ecommerce Website</description>
+	<lastBuildDate>Sun, 05 Feb 2023 13:37:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Tullenet Gown</title>
+		<link>/product/tullenet-gown/</link>
+					<comments>/product/tullenet-gown/#respond</comments>
+		
+		<dc:creator><![CDATA[favycouture123]]></dc:creator>
+		<pubDate>Sun, 05 Feb 2023 13:35:17 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=259</guid>
+
+					<description><![CDATA[Phasellus pharetra ante a velit porttitor, et gravida ligula euismod. Sed posuere pulvinar placerat. Maecenas a ipsum vehicula, aliquam turpis pharetra, blandit justo.Vestibulum ligula felis, ultricies a vehicula vel, semper efficitur metus. Quisque eget est ornare, condimentum diam ut, consequat nulla.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum odio erat, eget sollicitudin velit lobortis vitae. Proin malesuada leo faucibus dolor viverra, in dictum magna scelerisque. Maecenas sodales laoreet elit, eu feugiat enim sodales rhoncus. Nulla quis scelerisque est. Sed vel nisl purus. Nunc eu lacus eleifend, scelerisque massa in, viverra dui. Proin laoreet commodo eros, ut venenatis quam interdum et. Praesent suscipit sed tortor eget viverra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean posuere, odio non eleifend viverra, ante enim ultrices ligula, vulputate egestas augue justo nec justo. Nunc volutpat felis at tincidunt elementum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/tullenet-gown/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dinner Gown</title>
+		<link>/product/dinner-gown/</link>
+					<comments>/product/dinner-gown/#respond</comments>
+		
+		<dc:creator><![CDATA[favycouture123]]></dc:creator>
+		<pubDate>Sat, 04 Feb 2023 19:30:04 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=222</guid>
+
+					<description><![CDATA[Phasellus pharetra ante a velit porttitor, et gravida ligula euismod. Sed posuere pulvinar placerat. Maecenas a ipsum vehicula, aliquam turpis pharetra, blandit justo.Vestibulum ligula felis, ultricies a vehicula vel, semper efficitur metus. Quisque eget est ornare, condimentum diam ut, consequat nulla.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum odio erat, eget sollicitudin velit lobortis vitae. Proin malesuada leo faucibus dolor viverra, in dictum magna scelerisque. Maecenas sodales laoreet elit, eu feugiat enim sodales rhoncus. Nulla quis scelerisque est. Sed vel nisl purus. Nunc eu lacus eleifend, scelerisque massa in, viverra dui. Proin laoreet commodo eros, ut venenatis quam interdum et. Praesent suscipit sed tortor eget viverra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean posuere, odio non eleifend viverra, ante enim ultrices ligula, vulputate egestas augue justo nec justo. Nunc volutpat felis at tincidunt elementum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/dinner-gown/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

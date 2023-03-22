@@ -1,0 +1,13 @@
+2023-03-06T14:50:33+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\xampp\htdocs\favycouture\wp-content\plugins\ti-woocommerce-wishlist/tinv-wishlists-function.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\favycouture\wp-content\plugins\ti-woocommerce-wishlist\ti-woocommerce-wishlist.php:242
+Stack trace:
+#0 C:\xampp\htdocs\favycouture\wp-includes\class-wp-hook.php(308): run_tinv_wishlist('')
+#1 C:\xampp\htdocs\favycouture\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\favycouture\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\favycouture\wp-settings.php(480): do_action('plugins_loaded')
+#4 C:\xampp\htdocs\favycouture\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\favycouture\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\favycouture\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\favycouture\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\favycouture\wp-content\plugins\ti-woocommerce-wishlist\ti-woocommerce-wishlist.php on line 242
+

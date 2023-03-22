@@ -1,0 +1,17 @@
+2023-02-04T17:10:50+00:00 CRITICAL Uncaught Error: Class "TInvWL_Wishlist" not found in C:\xampp\htdocs\favycouture\wp-content\plugins\ti-woocommerce-wishlist\public\wishlistcounter.class.php:216
+Stack trace:
+#0 C:\xampp\htdocs\favycouture\wp-content\plugins\ti-woocommerce-wishlist\public\wishlistcounter.class.php(200): TInvWL_Public_WishlistCounter->user_wishlists()
+#1 C:\xampp\htdocs\favycouture\wp-content\plugins\ti-woocommerce-wishlist\public\wishlistcounter.class.php(231): TInvWL_Public_WishlistCounter->get_user_wishlists()
+#2 C:\xampp\htdocs\favycouture\wp-content\plugins\ti-woocommerce-wishlist\public\wishlistcounter.class.php(196): TInvWL_Public_WishlistCounter->counter()
+#3 C:\xampp\htdocs\favycouture\wp-content\plugins\ti-woocommerce-wishlist\public\addtowishlist.class.php(157): TInvWL_Public_WishlistCounter->get_counter()
+#4 C:\xampp\htdocs\favycouture\wp-includes\class-wp-hook.php(308): TInvWL_Public_AddToWishlist->set_wishlists_data_cookies('')
+#5 C:\xampp\htdocs\favycouture\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\favycouture\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\favycouture\wp-settings.php(617): do_action('init')
+#8 C:\xampp\htdocs\favycouture\wp-config.php(97): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\favycouture\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\favycouture\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\favycouture\index.php(17): require('C:\\xampp\\htdocs...')
+#12 {main}
+  thrown in C:\xampp\htdocs\favycouture\wp-content\plugins\ti-woocommerce-wishlist\public\wishlistcounter.class.php on line 216
+
